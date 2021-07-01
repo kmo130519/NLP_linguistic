@@ -41,7 +41,9 @@ h2 { /* Header 2 */
 -   Siri, Nugu, 빅스비, Amazon Alexa…
 -   Audio book (윌라, 밀리의 서재)…
 
-![voice](C:/rdata/NLP_linguistic/pngfiles/voice.png) - - -
+
+![voice](https://user-images.githubusercontent.com/70559817/124067212-fc5dcf80-da74-11eb-9a18-1586f95f095b.png)
+- - -
 
 > ## Phonetics and Phonology
 
@@ -134,14 +136,8 @@ h2 { /* Header 2 */
     -   Velars : velum (soft palate)
     -   Glottals : glottis
 
-<div class="figure" style="text-align: center">
+![vocal](https://user-images.githubusercontent.com/70559817/124067261-126b9000-da75-11eb-99e5-f307ef91b797.png)
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/vocal.png" alt="Vocal tract" width="100%" />
-<p class="caption">
-Vocal tract
-</p>
-
-</div>
 
 ------------------------------------------------------------------------
 
@@ -154,14 +150,8 @@ Vowel features :
 -   Lip rounding
 -   Tenseness (or length)
 
-<div class="figure" style="text-align: center">
+![vowels](https://user-images.githubusercontent.com/70559817/124067306-27e0ba00-da75-11eb-83c7-151ce853e31e.png)
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/vowels.png" alt="English Vowels" width="100%" />
-<p class="caption">
-English Vowels
-</p>
-
-</div>
 
 ------------------------------------------------------------------------
 
@@ -189,26 +179,24 @@ Major characteristics of sounds :
 
 > ## Method of representing sound acoustically
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/soundrep.png" width="100%" style="display: block; margin: auto;" />
+![soundrep](https://user-images.githubusercontent.com/70559817/124067321-3038f500-da75-11eb-8508-3ad1f703acf3.png)
 
 ------------------------------------------------------------------------
 
 > ## Air particle movements
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/airmove.png" width="100%" style="display: block; margin: auto;" />
+![airmove](https://user-images.githubusercontent.com/70559817/124067329-34651280-da75-11eb-893e-dfb17fec2377.png)
+
 
 ------------------------------------------------------------------------
 
 > ## Sound wave
 
-<div class="figure" style="text-align: center">
+![1](https://user-images.githubusercontent.com/70559817/124067347-3cbd4d80-da75-11eb-8b81-7bb05ef41bf7.png)
+![2](https://user-images.githubusercontent.com/70559817/124067350-3d55e400-da75-11eb-8ffe-7d5347877a7c.png)
+![3](https://user-images.githubusercontent.com/70559817/124067351-3dee7a80-da75-11eb-8505-8b71cd17b67e.png)
+![4](https://user-images.githubusercontent.com/70559817/124067355-3dee7a80-da75-11eb-93ee-126efbf85046.png)
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/1.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/2.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/3.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/4.png" alt="sound waves" width="50%" />
-<p class="caption">
-sound waves
-</p>
-
-</div>
 
 ------------------------------------------------------------------------
 
@@ -237,20 +225,15 @@ Two sounds with the same pitch and loudness can still differ
 
 > ## Pure tone vs. Complex Wave
 
-<div class="figure" style="text-align: center">
+![complexwave](https://user-images.githubusercontent.com/70559817/124067388-4941a600-da75-11eb-8717-41649db6eab7.png)
+![Puretone](https://user-images.githubusercontent.com/70559817/124067389-4a72d300-da75-11eb-970d-4ab4d952545e.png)
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/puretone.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/complexwave.png" alt="sound waves" width="50%" />
-<p class="caption">
-sound waves
-</p>
-
-</div>
 
 ------------------------------------------------------------------------
 
 > ## Periodic vs aperiodic wave
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/period.png" width="100%" style="display: block; margin: auto;" />
+![period](https://user-images.githubusercontent.com/70559817/124067401-4fd01d80-da75-11eb-808c-8d22fbfeb8f3.png)
 
 ------------------------------------------------------------------------
 
@@ -260,7 +243,8 @@ sound waves
 -   Waveform은 x축이 time이지만, spectrum은 어느 한 순간의 분포를
     알려준다.
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/spectrum.png" width="100%" style="display: block; margin: auto;" />
+![spectrum](https://user-images.githubusercontent.com/70559817/124067444-5494d180-da75-11eb-93c2-f1b5c11c310f.png)
+
 
 ------------------------------------------------------------------------
 
@@ -278,7 +262,8 @@ sound waves
 
 > ## Waveform & Spectogram aligned
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/specto.png" width="100%" style="display: block; margin: auto;" />
+![specto](https://user-images.githubusercontent.com/70559817/124067499-578fc200-da75-11eb-81df-01fc65554178.png)
+
 
 모음은 진폭의 일정한 period가 존재하고, 분포의 F1(*Height*),
 F2(*Backness*), F3(*Backness, lip rounding & personal
