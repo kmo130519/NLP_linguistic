@@ -1,0 +1,347 @@
+Phonetics & Phonology, speech sound
+================
+
+
+
+
+
+<style>
+#TOC {
+  opacity : 0.8;
+}
+#TOC:hover {
+  opacity:1;
+}
+
+}
+</style>
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+
+h1 { /* Header 1 */
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+</style>
+
+> ## Present
+
+-   Speech recognition & Speech synthesis
+-   Siri, Nugu, 빅스비, Amazon Alexa…
+-   Audio book (윌라, 밀리의 서재)…
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/voice.png" width="100%" style="display: block; margin: auto;" />
+
+------------------------------------------------------------------------
+
+> ## Phonetics and Phonology
+
+-   Both deal with speech sounds
+    -   Phonetics: The Sounds of Language
+    -   Phonology: The Sound Patterns of Language
+-   Phonetics studies the surface, physical aspects of sounds (the
+    sounds that we actually use)
+    -   how the speech sounds are made (articulatory phonetics)
+    -   how the speech sounds are perceived (auditory phonetics)
+    -   the physics involved (acoustic phonetics)
+-   Phonology
+    -   how speech sounds are organized into systems
+    -   how the sounds can be combined, the relations between them, and
+        how they affect each other the underlying, mental aspects of
+        sounds concerning what’s in our head
+
+------------------------------------------------------------------------
+
+> ## Phonetics
+
+-   The study of speech (that occur in all human languages to represent
+    meanings)  
+-   The inventory of speech sounds in a language differ from those in
+    another.  
+-   The entire inventory of speech sounds in all languages is still a
+    limited set.
+
+------------------------------------------------------------------------
+
+> ## Sound Segments
+
+-   segment(ation)
+-   “cat” has three sounds, but physically they are just one continuum.
+-   The continuum exists even across words, phrases and sentences.
+-   Segmenting ability is a part of linguistic knowledge of all human
+    speakers
+
+------------------------------------------------------------------------
+
+> ## Identity of Speech Sounds
+
+-   Same sounds are produced differently by different speakers and even
+    by the same speaker. Personal differences are not linguistically
+    significant.
+-   Nonlinguistic sounds are ignored.
+-   But, What about computers?
+
+------------------------------------------------------------------------
+
+> ## The Phonetic Alphabet
+
+-   orthography
+    -   spelling-sound inconsistency
+    -   spelling reform
+-   IPA (International Phonetic Association) in 1888
+    -   phonetic alphabet
+        -   IPA (International Phonetic Alphabet): diacritical marks,
+            schwa, engma
+-   Machine readable conventions
+    -   Using only keyboard friendly fonts (ASCII Characters)
+    -   Frequently used in the fields of speech technology
+    -   Major versions
+    -   CMUbet by Carnegie Mellon University
+    -   SAMPA by University College London
+
+------------------------------------------------------------------------
+
+> ## Basic events of speech production
+
+-   Initiation (respiration)
+    -   Creating the flow of air
+    -   No substantial sound yet
+-   Phonation
+    -   Making the air flow vocalic
+    -   As a simple buzzing sound
+-   Articulation
+    -   Modifying and amplifying the simple vocalic sound
+    -   Various speech sounds
+
+------------------------------------------------------------------------
+
+> ## Articulatory Phonetics - consonants
+
+-   Place of Articulation
+    -   Labials : lips
+    -   Interdentals : between teeth
+    -   Alveolars : alveolar ridge(tooth ridge)
+    -   Palatals : palate
+    -   Velars : velum (soft palate)
+    -   Glottals : glottis
+
+<div class="figure" style="text-align: center">
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/vocal.png" alt="Vocal tract" width="100%" />
+<p class="caption">
+Vocal tract
+</p>
+
+</div>
+
+------------------------------------------------------------------------
+
+> ## Ariculatory Phonetics - vowels
+
+Vowel features :
+
+-   Tongue height
+-   Tongue backness
+-   Lip rounding
+-   Tenseness (or length)
+
+<div class="figure" style="text-align: center">
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/vowels.png" alt="English Vowels" width="100%" />
+<p class="caption">
+English Vowels
+</p>
+
+</div>
+
+------------------------------------------------------------------------
+
+> ## Definition of sound
+
+Energy variations that travel through the medium  
+Possible mediom :
+
+-   Gas : air
+-   Liquid : water
+-   Solid : pipe, railroad track
+
+------------------------------------------------------------------------
+
+> ## What makes sounds different?
+
+Major characteristics of sounds :
+
+-   Pitch
+-   Loudness
+-   Quality
+-   Length
+
+------------------------------------------------------------------------
+
+> ## Method of representing sound acoustically
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/soundrep.png" width="100%" style="display: block; margin: auto;" />
+
+------------------------------------------------------------------------
+
+> ## Air particle movements
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/airmove.png" width="100%" style="display: block; margin: auto;" />
+
+------------------------------------------------------------------------
+
+> ## Sound wave
+
+<div class="figure" style="text-align: center">
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/1.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/2.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/3.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/4.png" alt="sound waves" width="50%" />
+<p class="caption">
+sound waves
+</p>
+
+</div>
+
+------------------------------------------------------------------------
+
+> ## Summary on frequency
+
+-   Typical average pitches used in speaking
+    -   Children: 265Hz
+    -   Women: 226Hz
+    -   Men: 120Hz
+-   Audible Frequency
+    -   Human: 20Hz (or16Hz) –20KHz
+    -   Bats: 20KHz –100KHz
+-   Fastest telephone vibration: 35KHz
+-   Most of the human speech sound frequency: below 8KHz
+
+------------------------------------------------------------------------
+
+> ## Waveform is not sufficient
+
+Two sounds with the same pitch and loudness can still differ
+
+-   Example) Violin A vs. Piano A
+-   Example) \[i\] vs. \[ɑ\]
+
+------------------------------------------------------------------------
+
+> ## Pure tone vs. Complex Wave
+
+<div class="figure" style="text-align: center">
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/puretone.png" alt="sound waves" width="50%" /><img src="C:/rdata/NLP_linguistic/pngfiles/complexwave.png" alt="sound waves" width="50%" />
+<p class="caption">
+sound waves
+</p>
+
+</div>
+
+------------------------------------------------------------------------
+
+> ## Periodic vs aperiodic wave
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/period.png" width="100%" style="display: block; margin: auto;" />
+
+------------------------------------------------------------------------
+
+> ## Waveform and Spectrum
+
+-   100Hz + 200Hz + 300Hz
+-   Waveform은 x축이 time이지만, spectrum은 어느 한 순간의 분포를
+    알려준다.
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/spectrum.png" width="100%" style="display: block; margin: auto;" />
+
+------------------------------------------------------------------------
+
+> ## Disadvantages of Spectrum Representation
+
+-   Less intuitive
+    -   X-axis denotes frequency level
+    -   No time varying representation
+-   Hard to see interaction with Waveforms
+-   Thus, a new way of representation needed
+
+→ **Spectrogram**
+
+------------------------------------------------------------------------
+
+> ## Waveform & Spectogram aligned
+
+<img src="C:/rdata/NLP_linguistic/pngfiles/specto.png" width="100%" style="display: block; margin: auto;" />
+
+모음은 진폭의 일정한 period가 존재하고, 분포의 F1(*Height*),
+F2(*Backness*), F3(*Backness, lip rounding & personal
+characteristics*)을 통해 모음의 종류를 파악할 수 있다. 자음은 aperiodic
+sound이므로 조금은 복잡한 방법으로 알아내야 한다. 파찰 등의 증거 등에서
+읽는다던지 한다.
+
+------------------------------------------------------------------------
+
+> ## Prosody (운율)
+
+Stress, intonation, rhythm, tone(성조, 억양, 강세, 리듬, 음절)..  
+Are prosodic features redundant?  
+Are prosodic features language universal?
+
+------------------------------------------------------------------------
+
+> ## Intonation as a phonemic feature
+
+A segmental string can be ambiguous in meaning → intonation
+disambiguates meanings
+
+-   Example
+    -   Marge has a new computer. (Fall: statement)
+    -   Marge has a new computer. (Rise: question)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+> ## Phonology
+
+Phonology tells you what combinations of sounds could be an actual word,
+whether it is or isn’t, and what combination of sounds could not be an
+actual word.  
+Phonology explains why certain phonetic features are important to
+identifying a word.
+
+-   voicing: pin vs. bin (phoneme)
+-   aspiration: pin vs. spin (allophone)
+
+------------------------------------------------------------------------
+
+> ## The Phonological Units of Language
+
+-   Phonemes: the basic form of a sound in one’s mind
+-   Phones: a particular realization (pronunciation) of a phoneme
+-   Allophones: the collection of phones that are the realizations of
+    the same phoneme
+
+------------------------------------------------------------------------
+
+> ## Rules of phonology
+
+-   Assimilation
+    -   Pass vs. pass you\[패슈\]
+    -   신라\[실라\] vs. Only\[올리\], Henry\[헬리\] (produced by Korean
+        native)
+-   Dissimilation
+    -   anecdot-al vs. angul-ar
+-   Insertion
+-   Deletion
+    -   myst**e**ry
+-   Devoicing
