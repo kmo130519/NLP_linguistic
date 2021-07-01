@@ -43,14 +43,8 @@ Linguistics & NLP
 
 # Natural language processing
 
-<div class="figure" style="text-align: center">
+![set](https://user-images.githubusercontent.com/70559817/124068286-8b6ae780-da75-11eb-9824-7577d029382f.png)
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/set.png" alt="Natural language processing" width="980" />
-<p class="caption">
-Natural language processing
-</p>
-
-</div>
 
 -   Basic steps of NLP
     -   Sentence splitting
@@ -123,14 +117,9 @@ produced by others.
 위 내용에 따르면, 컴퓨터가 자연어를 이해하려면 언어에 대한 지식들이
 있어야하고 linguistic competence가 있어야 하는데?
 
-<div class="figure" style="text-align: center">
-
-<img src="C:/rdata/NLP_linguistic/pngfiles/turing.png" alt="Turing test(*Alan M. Turing 1912-1954*)" width="503" />
-<p class="caption">
+![turing](https://user-images.githubusercontent.com/70559817/124068503-9c1b5d80-da75-11eb-8acd-811975fda783.png)
 Turing test(*Alan M. Turing 1912-1954*)
-</p>
 
-</div>
 
 ------------------------------------------------------------------------
 
@@ -216,14 +205,10 @@ Verb(lock)에도 붙을 수 있다. 전자로 계층구조를 잡으면 `'잠글
 뜻을 가지며, 후자는 `'풀 수 있는'`으로 해석된다. &gt;&gt; ambiguous  
 이 모호함은 context나 앞 뒤의 Hint 등으로 해결해야 한다.
 
-<div class="figure" style="text-align: center">
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/unlockable.png" alt="two meaning of unlockable" width="100%" />
-<p class="caption">
+![unlockable](https://user-images.githubusercontent.com/70559817/124068520-a50c2f00-da75-11eb-9bf0-899e5655eca2.png)
 two meaning of unlockable
-</p>
 
-</div>
 
 ------------------------------------------------------------------------
 
@@ -324,14 +309,10 @@ Th2-associated cytokines (e.g. IL-5 and IL-13).
 형태소 분석이 필요하다. 이를 살펴보면 이 또한 중의성도 있을 수 있다. 또
 오타에 대한 문제가 생길 수도 있다.
 
-<div class="figure" style="text-align: center">
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/koreantoken.png" alt="tokenization of korean" width="100%" />
-<p class="caption">
+![koreantoken](https://user-images.githubusercontent.com/70559817/124068543-b05f5a80-da75-11eb-87ac-34b9ecd720d4.png)
 tokenization of korean
-</p>
 
-</div>
 
 ## How to resolve typing mistakes?
 
@@ -341,7 +322,8 @@ tokenization of korean
 문자열에서 하나의 문자열을 다른 문자열과 똑같게 만들기 위해서 최소로
 필요로 하는 편집 회수(문자 추가, 제거, 위치 변경)를 계산한다.
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/edit_distance.png" width="100%" style="display: block; margin: auto;" />
+![edit_distance](https://user-images.githubusercontent.com/70559817/124068564-b5bca500-da75-11eb-8fff-e2b0b116d3cb.png)
+
 
 ``` r
 # 기본 패키지 사용
@@ -407,14 +389,10 @@ SVO 순.
 Syntax를 어떻게 해석하냐에 따라 의미가 달라질 수 있으며, 이 경우
 tree(hierarchical)이 있어야 ambiguity를 해결할 수 있다.
 
-<div class="figure" style="text-align: center">
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/omw.png" alt="old men and women" width="100%" />
-<p class="caption">
+![omw](https://user-images.githubusercontent.com/70559817/124068591-be14e000-da75-11eb-9c23-cf17aa881e40.png)
 old men and women
-</p>
 
-</div>
 
 lexical ambiguity는 context없이는 해결하기 힘들다.(e.g. this makes you
 smart)
@@ -500,14 +478,9 @@ Preposition, Conjunction.
 
 # Penn Treebank Tagset
 
-<div class="figure" style="text-align: center">
-
-<img src="C:/rdata/NLP_linguistic/pngfiles/tagset_eng.png" alt="Penn treebank tagset" width="100%" />
-<p class="caption">
+![tagset_eng](https://user-images.githubusercontent.com/70559817/124068609-c66d1b00-da75-11eb-891e-36adf0ed8b11.png)
 Penn treebank tagset
-</p>
 
-</div>
 
 ------------------------------------------------------------------------
 
@@ -568,23 +541,14 @@ order.
 • Governor (지배소)  
 • Dependent (의존소)
 
-<div class="figure" style="text-align: center">
-
-<img src="C:/rdata/NLP_linguistic/pngfiles/dependency.png" alt="grammar dependency vs. phrase structure" width="100%" />
-<p class="caption">
+![dependency](https://user-images.githubusercontent.com/70559817/124068638-d5ec6400-da75-11eb-9349-b0a438ef9498.png)
 grammar dependency vs. phrase structure
-</p>
 
-</div>
 
-<div class="figure" style="text-align: center">
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/dep2.png" alt="dependency rule" width="100%" />
-<p class="caption">
+
+![dep2](https://user-images.githubusercontent.com/70559817/124068660-dd137200-da75-11eb-8c69-1181ff96d316.png)
 dependency rule
-</p>
-
-</div>
 
 But,Korean  
 • Free in word order  
@@ -705,12 +669,9 @@ adverbs are grouped into sets of cognitive synonyms called ‘synsets’,
 each expressing a distinct concept. Synsets are interlinked using
 conceptual-semantic and lexical relations such as hyponymy
 
-<div class="figure" style="text-align: center">
-
-<img src="C:/rdata/NLP_linguistic/pngfiles/book.png" alt="book" width="100%" />
-<p class="caption">
+![book](https://user-images.githubusercontent.com/70559817/124068683-e8ff3400-da75-11eb-96ec-07c51fe66134.png)
 book
-</p>
+
 
 </div>
 
@@ -718,14 +679,8 @@ book
 
 Automatically created database of lexico-semantic relations (MS)
 
-<div class="figure" style="text-align: center">
-
-<img src="C:/rdata/NLP_linguistic/pngfiles/mind.png" alt="mindnet" width="100%" />
-<p class="caption">
+![mind](https://user-images.githubusercontent.com/70559817/124068695-ef8dab80-da75-11eb-92b5-d5ac909708c3.png)
 mindnet
-</p>
-
-</div>
 
 -   Other linguistic database
     -   PropBank
