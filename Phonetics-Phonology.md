@@ -41,9 +41,7 @@ h2 { /* Header 2 */
 -   Siri, Nugu, 빅스비, Amazon Alexa…
 -   Audio book (윌라, 밀리의 서재)…
 
-<img src="C:/rdata/NLP_linguistic/pngfiles/voice.png" width="100%" style="display: block; margin: auto;" />
-
-------------------------------------------------------------------------
+![voice](C:/rdata/NLP_linguistic/pngfiles/voice.png) - - -
 
 > ## Phonetics and Phonology
 

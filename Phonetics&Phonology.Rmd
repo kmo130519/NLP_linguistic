@@ -53,9 +53,9 @@ knitr::opts_chunk$set(echo = TRUE)
 * Audio book (윌라, 밀리의 서재)…
 
 ```{r, echo=FALSE, fig.cap="", fig.align='center', out.width= '100%'}
-knitr::include_graphics("C:/rdata/NLP_linguistic/pngfiles/voice.png")
+#knitr::include_graphics("C:/rdata/NLP_linguistic/pngfiles/voice.png")
 ```
-
+![voice](C:/rdata/NLP_linguistic/pngfiles/voice.png)
 - - -
 
 > ## Phonetics and Phonology
